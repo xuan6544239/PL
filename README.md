@@ -13,3 +13,4 @@
 #工具
 </br>
 [Jsoncrack:快速檢視巢狀結構](https://jsoncrack.com/editor)
+[Jupyter nbviewer:如果Gihub解析圖表有問題可嘗試](https://nbviewer.org/)
