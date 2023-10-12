@@ -9,6 +9,7 @@
 ##HW連結區
 </br>
 [HW1](HW/HW1/HW1.ipynb)</br>
+[HW2](HW/HW1/HW1.ipynb)</br>
 
 ##工具
 </br>
