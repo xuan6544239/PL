@@ -1,0 +1,13 @@
+需執行程式碼
+</br>
+Q1
+</br>
+![image](https://github.com/xuan6544239/PL/assets/78030259/d340084c-3801-43a9-857f-826112cf2295)
+</br>
+Q2
+</br>
+![image](https://github.com/xuan6544239/PL/assets/78030259/e7226912-120c-485b-bb1f-858148bb393b)
+</br>
+Q3
+</br>
+![image](https://github.com/xuan6544239/PL/assets/78030259/966c794b-8165-4b8e-9bed-2b46203637d5)
