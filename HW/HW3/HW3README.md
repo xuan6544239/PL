@@ -1,0 +1,1 @@
+使用網路爬蟲爬取Yahoo finance包含關鍵字「War」的新聞和文章，並儲存成csv與json檔案
